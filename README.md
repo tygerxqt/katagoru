@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is currently under hiatus until the development of Campsite Chat reaches to a beta state.
+
 ![banner](/public/banner.png)
 
 # What is Katarogu?
@@ -6,9 +9,6 @@ Katarogu is a free, open-source and community driven manga and anime tracking se
 
 > [!WARNING]  
 > Katarogu is currently in alpha stages of development, breaking changes, bugs and missing features are to be expected.  
-
-> [!NOTE]
-> This is a complete rewrite from the original version of Katarogu which depended on PocketBase. You can find the original's source under the [old](https://github.com/tygrdotdev/katarogu/tree/old) branch. Once Katarogu reaches beta stages, this branch will be deleted.
 
 ## Tech stack
 
